@@ -1,8 +1,10 @@
 # office-fitness-bot
 Automated exercise reminder for employees via slack.
 
-Find the complete python script for the pipedream workflow automation below:
-```
+Find the complete **python code** for the pipedream workflow automation below:
+(Click on the top right corner icon to copy the code section.)
+
+```python
 from datetime import datetime
 
 # START: define constants
