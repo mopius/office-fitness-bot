@@ -17,7 +17,7 @@ Take a healthy 5 minutes off the task, do these exercises and come back stronger
 3. _One-legged “key pickups”_: per leg, 3-5x
 4. _Squats_: 5x
 
-Detailed description <https://mopius.atlassian.net/wiki/spaces/MOP/pages/93192193/5-min+Office+Fitness#TUESDAY|here>. React with any emoji :white_check_mark: to mark the workout as completed.
+Detailed description <https://github.com/mopius/office-fitness-bot/blob/d9a51dd7460239be3b72f3f62e6ad52e66aceef6/MOP-5-min%20Office%20Fitness-180424-091400.pdf|here>. React with any emoji :white_check_mark: to mark the workout as completed.
 I'm rooting for you!"""
 
 DESC_TUESDAY = """
@@ -34,7 +34,7 @@ Get a healthy break, fuel your energy and be good to your body with these exerci
 4. _Schifahr/Fußball-Beinschwingen_: per leg: 5x back/forth, 5x left/right
 5. _Jumping squats_: 5x
 
-Detailed description <https://mopius.atlassian.net/wiki/spaces/MOP/pages/93192193/5-min+Office+Fitness#WEDNESDAY|here>. React with any emoji :white_check_mark: to mark the workout as completed.
+Detailed description <https://github.com/mopius/office-fitness-bot/blob/d9a51dd7460239be3b72f3f62e6ad52e66aceef6/MOP-5-min%20Office%20Fitness-180424-091400.pdf|here>. React with any emoji :white_check_mark: to mark the workout as completed.
 You got this!"""
 
 DESC_WEDNESDAY = """
